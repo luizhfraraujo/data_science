@@ -5,7 +5,7 @@
 
 <p align="center">
   <img src="https://www.dataquest.io/wp-content/uploads/2019/05/what-is-data-science-1040x520.jpg" >
-  Imagem publicada em [What is Data Science?](https://www.dataquest.io/blog/what-is-data-science)
+  Imagem publicada em <a href="https://www.dataquest.io/blog/what-is-data-science">What is Data Science?</a>
 </p>
 
 # Luiz Henrique de Freitas Rodrigues Araújo
