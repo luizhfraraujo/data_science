@@ -1,7 +1,8 @@
 [![author](https://img.shields.io/badge/author-luizhfraraujo-red.svg)](https://www.linkedin.com/in/luizhfraraujo) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/luizhfraraujo/data_science/issues)
 
 <p align="center">
-  <img src="banner.png" >
+  <img src="https://www.dataquest.io/wp-content/uploads/2019/05/what-is-data-science-1040x520.jpg" >
+  Imagem publicada em (https://www.dataquest.io/blog/what-is-data-science)[What is Data Science?]
 </p>
 
 # Luiz Henrique de Freitas Rodrigues Araújo
