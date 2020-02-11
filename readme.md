@@ -23,10 +23,10 @@ Neste repositório você encontrará meus projetos realizados na área de DataSc
 
 ## Artigos:
 Artigos publicados em meu Medium:
-* **Publicando Projetos do Google Colab no Github: ** http://bit.ly/2OKiEMp
-* **Criando um projeto com Ionic, Angular e Firebase: ** http://bit.ly/39ridPb
-* **QlikSense — Caracteres especiais em colunas utilizando QVS com VSCode: ** http://bit.ly/2OLlK2M
-* **QlikSense — Dados incrementais em QVD (Insert, Update): ** http://bit.ly/38dqru1
+* **Publicando Projetos do Google Colab no Github:** http://bit.ly/2OKiEMp
+* **Criando um projeto com Ionic, Angular e Firebase:** http://bit.ly/39ridPb
+* **QlikSense — Caracteres especiais em colunas utilizando QVS com VSCode:** http://bit.ly/2OLlK2M
+* **QlikSense — Dados incrementais em QVD (Insert, Update):** http://bit.ly/38dqru1
 
 
 
