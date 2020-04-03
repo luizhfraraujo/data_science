@@ -25,9 +25,9 @@ Neste repositório você encontrará meus projetos realizados na área de DataSc
 ## Artigos:
 Artigos publicados:
 * [**Publicando Projetos do Google Colab no Github:**](https://luizhfraraujo.com.br/2020/01/09/qliksense-dados-incrementais-em-qvd-insert-update/) 
-* **Criando um projeto com Ionic, Angular e Firebase:** https://luizhfraraujo.com.br/2020/02/01/criando-um-projeto-com-ionic-angular-e-firebase/
-* **QlikSense — Caracteres especiais em colunas utilizando QVS com VSCode:** https://luizhfraraujo.com.br/2020/01/14/qliksense-caracteres-especiais-em-colunas-utilizando-qvs-com-vscode/
-* **QlikSense — Dados incrementais em QVD (Insert, Update):** https://luizhfraraujo.com.br/2020/02/10/publicando-projetos-do-google-colab-no-github/
+* [**Criando um projeto com Ionic, Angular e Firebase:**] (https://luizhfraraujo.com.br/2020/02/01/criando-um-projeto-com-ionic-angular-e-firebase/)
+* [**QlikSense — Caracteres especiais em colunas utilizando QVS com VSCode:**] (https://luizhfraraujo.com.br/2020/01/14/qliksense-caracteres-especiais-em-colunas-utilizando-qvs-com-vscode/)
+* [**QlikSense — Dados incrementais em QVD (Insert, Update):**] (https://luizhfraraujo.com.br/2020/02/10/publicando-projetos-do-google-colab-no-github/)
 
 
 
