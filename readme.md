@@ -15,7 +15,11 @@ Neste repositório você encontrará meus projetos realizados na área de DataSc
 
 **Sobre mim:**
 
-8 anos de experiência com desenvolvimento de softwares e 7 anos com experiência em desenvolvimento de projetos de Business Intelligence. Experiência em projetos com NodeJS, Python, C#, Angular, React, processos em ETL e integração de sistemas. Bacharel em Sistemas de Informação pela UNIPAC - Campus Bom Despacho (2009-2012). Atualmente trabalho como Analista de Dados da [LinkedBy](http://linkedby.com.br) na sede em São Paulo, tendo atuado em diversos projetos de ETL e integração dos produtos fornecidos pela empresa.
+8 anos de experiência com desenvolvimento de softwares e 7 anos com experiência em desenvolvimento de projetos de Business Intelligence. Experiência em projetos com NodeJS, Python, C#, Angular, React, processos em ETL e integração de sistemas. Bacharel em Sistemas de Informação pela UNIPAC - Campus Bom Despacho (2009-2012). Atuei durante 7 anos como como Analista de Dados da [LinkedBy](http://linkedby.com.br) na sede em São Paulo, tendo realizado diversos projetos de ETL e integração dos produtos fornecidos pela empresa.
+
+**Projetos**
+* [COVID-19 Analysis (Portal)](https://analysis-covid19.herokuapp.com/)
+* [COVID-19 Analysis (Repositório)](https://github.com/luizhfraraujo/analysis-covid19)
 
 **Links:**
 * [Site Pessoal](https://www.luizfraraujo.com.br)
