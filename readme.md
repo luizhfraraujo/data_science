@@ -9,7 +9,7 @@
 </p>
 
 # Luiz Henrique de Freitas Rodrigues Araújo
-<sub>*Analista de Dados* em LinkedBy São Paulo</sub>
+<sub>*Data Scientist* at Data Bridge</sub>
 
 Neste repositório você encontrará meus projetos realizados na área de DataScience e artigos publicados em diversas áreas.
 
