@@ -20,6 +20,8 @@ Neste repositório você encontrará meus projetos realizados na área de DataSc
 **Projetos**
 * [COVID-19 Analysis (Portal)](https://analysis-covid19.herokuapp.com/)
 * [COVID-19 Analysis (Repositório)](https://github.com/luizhfraraujo/analysis-covid19)
+* [DataHackers Survey 2019 com Streamlit (Relatório)](https://datahackers-survey-2019.herokuapp.com/)
+* [DataHackers Survey 2019 com Streamlit (Repositório)](https://github.com/luizhfraraujo/datahackers_survey_2019)
 
 **Links:**
 * [Site Pessoal](https://www.luizfraraujo.com.br)
